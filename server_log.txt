@@ -1,0 +1,2595 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:52:49] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:52:59] 
+[03:52:59] Server Plugins
+[03:52:59] --------------
+[03:52:59]  Loaded 0 plugins.
+
+[03:52:59] I couldn't load any gamemode scripts. Please verify your server.cfg
+[03:52:59] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:53:22] filterscripts = ""  (string)
+[03:53:22] 
+[03:53:22] Server Plugins
+[03:53:22] --------------
+[03:53:22]  Loaded 0 plugins.
+
+[03:53:22] 
+[03:53:22] Filterscripts
+[03:53:22] ---------------
+[03:53:22]   Loaded 0 filterscripts.
+
+[03:53:22] 
+----------------------------------
+[03:53:22]  TnsaWRLD gamemode
+[03:53:22] ----------------------------------
+
+[03:53:22] Number of vehicle models: 0
+[03:53:34] [connection] incoming connection: 127.0.0.1:49411 id: 0
+[03:53:49] [connection] incoming connection: 127.0.0.1:64847 id: 0
+[03:53:50] [connection] incoming connection: 127.0.0.1:64848 id: 0
+[03:53:50] [join] Tnsa has joined the server (0:127.0.0.1)
+[03:53:50] [part] Tnsa has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:40:33] filterscripts = ""  (string)
+[12:40:33] 
+[12:40:33] Server Plugins
+[12:40:33] --------------
+[12:40:33]  Loaded 0 plugins.
+
+[12:40:33] 
+[12:40:33] Filterscripts
+[12:40:33] ---------------
+[12:40:33]   Loaded 0 filterscripts.
+
+[12:40:33] 
+----------------------------------
+[12:40:33]  Blank Gamemode by your name here
+[12:40:33] ----------------------------------
+
+[12:40:33] Number of vehicle models: 0
+[12:41:30] [connection] incoming connection: 127.0.0.1:57229 id: 0
+[12:41:40] [connection] incoming connection: 127.0.0.1:57230 id: 0
+[12:41:51] [connection] incoming connection: 127.0.0.1:57231 id: 0
+[12:41:51] [connection] incoming connection: 127.0.0.1:57232 id: 0
+[12:41:51] [join] Tnsa has joined the server (0:127.0.0.1)
+Console input: restart
+Console input: help
+[12:47:11] --- Server Shutting Down.
+[12:47:11] [part] Tnsa has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:47:13] filterscripts = ""  (string)
+[12:47:13] 
+[12:47:13] Server Plugins
+[12:47:13] --------------
+[12:47:13]  Loaded 0 plugins.
+
+[12:47:13] 
+[12:47:13] Filterscripts
+[12:47:13] ---------------
+[12:47:13]   Loaded 0 filterscripts.
+
+[12:47:13] Script[gamemodes/new.amx]: Run time error 19: "File or function is not found"
+[12:47:13] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:59:22] filterscripts = ""  (string)
+[12:59:22] 
+[12:59:22] Server Plugins
+[12:59:22] --------------
+[12:59:22]  Loaded 0 plugins.
+
+[12:59:22] 
+[12:59:22] Filterscripts
+[12:59:22] ---------------
+[12:59:22]   Loaded 0 filterscripts.
+
+[12:59:22] Script[gamemodes/new.amx]: Run time error 19: "File or function is not found"
+[12:59:22] Number of vehicle models: 0
+[12:59:53] [connection] incoming connection: 127.0.0.1:55039 id: 0
+[12:59:54] [join] Tnsa has joined the server (0:127.0.0.1)
+[13:01:00] [part] Tnsa has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:01:21] filterscripts = ""  (string)
+[13:01:21] 
+[13:01:21] Server Plugins
+[13:01:21] --------------
+[13:01:21]  Loaded 0 plugins.
+
+[13:01:21] 
+[13:01:21] Filterscripts
+[13:01:21] ---------------
+[13:01:21]   Loaded 0 filterscripts.
+
+[13:01:21] Script[gamemodes/new.amx]: Run time error 19: "File or function is not found"
+[13:01:21] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:01:34] filterscripts = ""  (string)
+[13:01:34] 
+[13:01:34] Server Plugins
+[13:01:34] --------------
+[13:01:34]  Loaded 0 plugins.
+
+[13:01:34] 
+[13:01:34] Filterscripts
+[13:01:34] ---------------
+[13:01:34]   Loaded 0 filterscripts.
+
+[13:01:34] Script[gamemodes/new.amx]: Run time error 19: "File or function is not found"
+[13:01:34] Number of vehicle models: 0
+[13:01:38] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:02:03] filterscripts = ""  (string)
+[13:02:03] 
+[13:02:03] Server Plugins
+[13:02:03] --------------
+[13:02:03]  Loaded 0 plugins.
+
+[13:02:03] 
+[13:02:03] Filterscripts
+[13:02:03] ---------------
+[13:02:03]   Loaded 0 filterscripts.
+
+[13:02:03] Script[gamemodes/pepek.amx]: Run time error 19: "File or function is not found"
+[13:02:03] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:02:15] filterscripts = ""  (string)
+[13:02:15] 
+[13:02:15] Server Plugins
+[13:02:15] --------------
+[13:02:15]  Loaded 0 plugins.
+
+[13:02:15] 
+[13:02:15] Filterscripts
+[13:02:15] ---------------
+[13:02:15]   Loaded 0 filterscripts.
+
+[13:02:15] Script[gamemodes/pepek.amx]: Run time error 19: "File or function is not found"
+[13:02:15] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:02:55] filterscripts = ""  (string)
+[13:02:55] 
+[13:02:55] Server Plugins
+[13:02:55] --------------
+[13:02:55]  Loaded 0 plugins.
+
+[13:02:55] 
+[13:02:55] Filterscripts
+[13:02:55] ---------------
+[13:02:55]   Loaded 0 filterscripts.
+
+[13:02:55] Script[gamemodes/pepek.amx]: Run time error 19: "File or function is not found"
+[13:02:55] Number of vehicle models: 0
+[13:02:57] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:04:06] 
+[13:04:06] Server Plugins
+[13:04:06] --------------
+[13:04:06]  Loaded 0 plugins.
+
+[13:04:06] 
+[13:04:06] Filterscripts
+[13:04:06] ---------------
+[13:04:06]   Loading filterscript 'pawn.cmd.amx'...
+[13:04:06]   Unable to load filterscript 'pawn.cmd.amx'.
+[13:04:06]   Loading filterscript 'sscanf.amx'...
+[13:04:06]   Unable to load filterscript 'sscanf.amx'.
+[13:04:06]   Loaded 0 filterscripts.
+
+[13:04:06] Script[gamemodes/pepek.amx]: Run time error 19: "File or function is not found"
+[13:04:06] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:05:07] 
+[13:05:07] Server Plugins
+[13:05:07] --------------
+[13:05:07]  Loaded 0 plugins.
+
+[13:05:07] 
+[13:05:07] Filterscripts
+[13:05:07] ---------------
+[13:05:07]   Loading filterscript 'pawn.cmd.amx'...
+[13:05:07]   Unable to load filterscript 'pawn.cmd.amx'.
+[13:05:07]   Loading filterscript 'sscanf.amx'...
+[13:05:07]   Unable to load filterscript 'sscanf.amx'.
+[13:05:07]   Loaded 0 filterscripts.
+
+[13:05:07] 
+----------------------------------
+[13:05:07]  Blank Gamemode by your name here
+[13:05:07] ----------------------------------
+
+[13:05:07] Number of vehicle models: 0
+[13:05:09] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:15:04] 
+[13:15:04] Server Plugins
+[13:15:04] --------------
+[13:15:04]  Loaded 0 plugins.
+
+[13:15:04] 
+[13:15:04] Filterscripts
+[13:15:04] ---------------
+[13:15:04]   Loading filterscript 'pawn.cmd.amx'...
+[13:15:04]   Unable to load filterscript 'pawn.cmd.amx'.
+[13:15:04]   Loading filterscript 'sscanf.amx'...
+[13:15:04]   Unable to load filterscript 'sscanf.amx'.
+[13:15:04]   Loaded 0 filterscripts.
+
+[13:15:04] 
+----------------------------------
+[13:15:04]  Blank Gamemode by your name here
+[13:15:04] ----------------------------------
+
+[13:15:04] Number of vehicle models: 0
+[13:15:28] [connection] incoming connection: 127.0.0.1:56155 id: 0
+[13:15:28] [join] Tnsa has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:36:47] 
+[13:36:47] Server Plugins
+[13:36:47] --------------
+[13:36:47]  Loaded 0 plugins.
+
+[13:36:47] 
+[13:36:47] Filterscripts
+[13:36:47] ---------------
+[13:36:47]   Loading filterscript 'pawn.cmd.amx'...
+[13:36:47]   Unable to load filterscript 'pawn.cmd.amx'.
+[13:36:47]   Loading filterscript 'sscanf.amx'...
+[13:36:47]   Unable to load filterscript 'sscanf.amx'.
+[13:36:47]   Loaded 0 filterscripts.
+
+[13:36:47] Script[gamemodes/new.amx]: Run time error 19: "File or function is not found"
+[13:36:47] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:36:59] 
+[13:36:59] Server Plugins
+[13:36:59] --------------
+[13:36:59]  Loaded 0 plugins.
+
+[13:36:59] 
+[13:36:59] Filterscripts
+[13:36:59] ---------------
+[13:36:59]   Loading filterscript 'pawn.cmd.amx'...
+[13:36:59]   Unable to load filterscript 'pawn.cmd.amx'.
+[13:36:59]   Loading filterscript 'sscanf.amx'...
+[13:36:59]   Unable to load filterscript 'sscanf.amx'.
+[13:36:59]   Loaded 0 filterscripts.
+
+[13:36:59] Script[gamemodes/new.amx]: Run time error 19: "File or function is not found"
+[13:36:59] Number of vehicle models: 0
+[13:37:29] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:38:29] 
+[13:38:29] Server Plugins
+[13:38:29] --------------
+[13:38:29]  Loaded 0 plugins.
+
+[13:38:29] 
+[13:38:29] Filterscripts
+[13:38:29] ---------------
+[13:38:29]   Loading filterscript 'pawn.cmd.amx'...
+[13:38:29]   Unable to load filterscript 'pawn.cmd.amx'.
+[13:38:29]   Loading filterscript 'sscanf.amx'...
+[13:38:29]   Unable to load filterscript 'sscanf.amx'.
+[13:38:29]   Loaded 0 filterscripts.
+
+[13:38:29] Script[gamemodes/new.amx]: Run time error 19: "File or function is not found"
+[13:38:29] Number of vehicle models: 0
+[13:38:32] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:39:26] 
+[13:39:26] Server Plugins
+[13:39:26] --------------
+[13:39:26]  Loaded 0 plugins.
+
+[13:39:26] 
+[13:39:26] Filterscripts
+[13:39:26] ---------------
+[13:39:26]   Loading filterscript 'pawncmd.dll.amx'...
+[13:39:26]   Unable to load filterscript 'pawncmd.dll.amx'.
+[13:39:26]   Loading filterscript 'sscanf.dll.amx'...
+[13:39:26]   Unable to load filterscript 'sscanf.dll.amx'.
+[13:39:26]   Loaded 0 filterscripts.
+
+[13:39:26] Script[gamemodes/new.amx]: Run time error 19: "File or function is not found"
+[13:39:26] Number of vehicle models: 0
+[13:39:38] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:39:51] filterscripts = ""  (string)
+[13:39:51] 
+[13:39:51] Server Plugins
+[13:39:51] --------------
+[13:39:51]  Loading plugin: pawncmd.dll
+[13:39:51] [Pawn.CMD] plugin v3.4.0 loading...
+[13:39:51] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[13:39:51]   Loaded.
+[13:39:51]  Loading plugin: sscanf.dll
+[13:39:51] 
+[13:39:51]  ===============================
+[13:39:51] 
+[13:39:51]       sscanf plugin loaded.     
+[13:39:51] 
+[13:39:51]          Version: 2.13.8
+[13:39:51] 
+[13:39:51]    (c) 2022 Alex "Y_Less" Cole  
+[13:39:51] 
+[13:39:51]  ===============================
+[13:39:51] 
+[13:39:51]   Loaded.
+[13:39:51]  Loaded 2 plugins.
+
+[13:39:51] 
+[13:39:51] Filterscripts
+[13:39:51] ---------------
+[13:39:51]   Loaded 0 filterscripts.
+
+[13:39:51] 
+----------------------------------
+[13:39:51]  Blank Gamemode by your name here
+[13:39:51] ----------------------------------
+
+[13:39:51] Number of vehicle models: 0
+[13:40:13] [connection] incoming connection: 127.0.0.1:62326 id: 0
+[13:40:14] [join] Tnsa has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:46:00] filterscripts = ""  (string)
+[13:46:00] 
+[13:46:00] Server Plugins
+[13:46:00] --------------
+[13:46:00]  Loading plugin: pawncmd.dll
+[13:46:00] [Pawn.CMD] plugin v3.4.0 loading...
+[13:46:00] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[13:46:00]   Loaded.
+[13:46:00]  Loading plugin: sscanf.dll
+[13:46:00] 
+[13:46:00]  ===============================
+[13:46:00] 
+[13:46:00]       sscanf plugin loaded.     
+[13:46:00] 
+[13:46:00]          Version: 2.13.8
+[13:46:00] 
+[13:46:00]    (c) 2022 Alex "Y_Less" Cole  
+[13:46:00] 
+[13:46:00]  ===============================
+[13:46:00] 
+[13:46:00]   Loaded.
+[13:46:00]  Loaded 2 plugins.
+
+[13:46:00] 
+[13:46:00] Filterscripts
+[13:46:00] ---------------
+[13:46:00]   Loaded 0 filterscripts.
+
+[13:46:00] 
+----------------------------------
+[13:46:00]  Blank Gamemode by your name here
+[13:46:00] ----------------------------------
+
+[13:46:00] Number of vehicle models: 0
+[13:46:17] [connection] incoming connection: 127.0.0.1:51093 id: 0
+[13:46:17] [join] Tnsa has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:50:15] filterscripts = ""  (string)
+[13:50:15] 
+[13:50:15] Server Plugins
+[13:50:15] --------------
+[13:50:15]  Loading plugin: pawncmd.dll
+[13:50:15] [Pawn.CMD] plugin v3.4.0 loading...
+[13:50:15] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[13:50:15]   Loaded.
+[13:50:15]  Loading plugin: sscanf.dll
+[13:50:15] 
+[13:50:15]  ===============================
+[13:50:15] 
+[13:50:15]       sscanf plugin loaded.     
+[13:50:15] 
+[13:50:15]          Version: 2.13.8
+[13:50:15] 
+[13:50:15]    (c) 2022 Alex "Y_Less" Cole  
+[13:50:15] 
+[13:50:15]  ===============================
+[13:50:15] 
+[13:50:15]   Loaded.
+[13:50:15]  Loaded 2 plugins.
+
+[13:50:15] 
+[13:50:15] Filterscripts
+[13:50:15] ---------------
+[13:50:15]   Loaded 0 filterscripts.
+
+[13:50:15] 
+----------------------------------
+[13:50:15]  Blank Gamemode by your name here
+[13:50:15] ----------------------------------
+
+[13:50:15] Number of vehicle models: 0
+[13:50:19] [connection] incoming connection: 127.0.0.1:56306 id: 0
+[13:50:19] [join] Tnsa has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:56:19] filterscripts = ""  (string)
+[13:56:19] 
+[13:56:19] Server Plugins
+[13:56:19] --------------
+[13:56:19]  Loading plugin: pawncmd.dll
+[13:56:19] [Pawn.CMD] plugin v3.4.0 loading...
+[13:56:19] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[13:56:19]   Loaded.
+[13:56:19]  Loading plugin: sscanf.dll
+[13:56:19] 
+[13:56:19]  ===============================
+[13:56:19] 
+[13:56:19]       sscanf plugin loaded.     
+[13:56:19] 
+[13:56:19]          Version: 2.13.8
+[13:56:19] 
+[13:56:19]    (c) 2022 Alex "Y_Less" Cole  
+[13:56:19] 
+[13:56:19]  ===============================
+[13:56:19] 
+[13:56:19]   Loaded.
+[13:56:19]  Loaded 2 plugins.
+
+[13:56:19] 
+[13:56:19] Filterscripts
+[13:56:19] ---------------
+[13:56:19]   Loaded 0 filterscripts.
+
+[13:56:19] 
+----------------------------------
+[13:56:19]  Blank Gamemode by your name here
+[13:56:19] ----------------------------------
+
+[13:56:19] Number of vehicle models: 0
+[13:59:41] --- Server Shutting Down.
+[13:59:41] [Pawn.CMD] plugin unloaded
+[13:59:41] 
+[13:59:41]  ===============================
+[13:59:41] 
+[13:59:41]      sscanf plugin unloaded.    
+[13:59:41] 
+[13:59:41]  ===============================
+[13:59:41] 
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:59:44] filterscripts = ""  (string)
+[13:59:44] 
+[13:59:44] Server Plugins
+[13:59:44] --------------
+[13:59:44]  Loading plugin: pawncmd.dll
+[13:59:44] [Pawn.CMD] plugin v3.4.0 loading...
+[13:59:44] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[13:59:44]   Loaded.
+[13:59:44]  Loading plugin: sscanf.dll
+[13:59:44] 
+[13:59:44]  ===============================
+[13:59:44] 
+[13:59:44]       sscanf plugin loaded.     
+[13:59:44] 
+[13:59:44]          Version: 2.13.8
+[13:59:44] 
+[13:59:44]    (c) 2022 Alex "Y_Less" Cole  
+[13:59:44] 
+[13:59:44]  ===============================
+[13:59:44] 
+[13:59:44]   Loaded.
+[13:59:44]  Loaded 2 plugins.
+
+[13:59:44] 
+[13:59:44] Filterscripts
+[13:59:44] ---------------
+[13:59:44]   Loaded 0 filterscripts.
+
+[13:59:44] 
+----------------------------------
+[13:59:44]  Blank Gamemode by your name here
+[13:59:44] ----------------------------------
+
+[13:59:44] Number of vehicle models: 0
+[14:00:03] [connection] incoming connection: 192.168.1.6:58447 id: 0
+[14:00:03] [join] Tansaaja has joined the server (0:192.168.1.6)
+[14:00:59] [connection] incoming connection: 127.0.0.1:52345 id: 1
+[14:01:00] [join] Tnsa has joined the server (1:127.0.0.1)
+[14:03:29] [part] Tansaaja has left the server (0:0)
+[14:13:06] [part] Tnsa has left the server (1:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:39:50] filterscripts = ""  (string)
+[17:39:50] 
+[17:39:50] Server Plugins
+[17:39:50] --------------
+[17:39:50]  Loading plugin: pawncmd.dll
+[17:39:50] [Pawn.CMD] plugin v3.4.0 loading...
+[17:39:50] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[17:39:50]   Loaded.
+[17:39:50]  Loading plugin: sscanf.dll
+[17:39:50] 
+[17:39:50]  ===============================
+[17:39:50] 
+[17:39:50]       sscanf plugin loaded.     
+[17:39:50] 
+[17:39:50]          Version: 2.13.8
+[17:39:50] 
+[17:39:50]    (c) 2022 Alex "Y_Less" Cole  
+[17:39:50] 
+[17:39:50]  ===============================
+[17:39:50] 
+[17:39:50]   Loaded.
+[17:39:50]  Loaded 2 plugins.
+
+[17:39:50] 
+[17:39:50] Filterscripts
+[17:39:50] ---------------
+[17:39:50]   Loaded 0 filterscripts.
+
+[17:39:50] Script[gamemodes/new.amx]: Run time error 19: "File or function is not found"
+[17:39:50] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:40:08] filterscripts = ""  (string)
+[17:40:08] 
+[17:40:08] Server Plugins
+[17:40:08] --------------
+[17:40:08]  Loading plugin: pawncmd.dll
+[17:40:08] [Pawn.CMD] plugin v3.4.0 loading...
+[17:40:08] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[17:40:08]   Loaded.
+[17:40:08]  Loading plugin: sscanf.dll
+[17:40:08] 
+[17:40:08]  ===============================
+[17:40:08] 
+[17:40:08]       sscanf plugin loaded.     
+[17:40:08] 
+[17:40:08]          Version: 2.13.8
+[17:40:08] 
+[17:40:08]    (c) 2022 Alex "Y_Less" Cole  
+[17:40:08] 
+[17:40:08]  ===============================
+[17:40:08] 
+[17:40:08]   Loaded.
+[17:40:08]  Loading plugin: mysql.dll
+[17:40:08]  >> plugin.mysql: R41-4 successfully loaded.
+[17:40:08]   Loaded.
+[17:40:08]  Loaded 3 plugins.
+
+[17:40:08] 
+[17:40:08] Filterscripts
+[17:40:08] ---------------
+[17:40:08]   Loaded 0 filterscripts.
+
+[17:40:09] Berhasil tersambung kedalam database!
+[17:40:09] 
+----------------------------------
+[17:40:09]  Blank Gamemode by your name here
+[17:40:09] ----------------------------------
+
+[17:40:09] Number of vehicle models: 0
+[17:42:28] --- Server Shutting Down.
+[17:42:28] [Pawn.CMD] plugin unloaded
+[17:42:28] 
+[17:42:28]  ===============================
+[17:42:28] 
+[17:42:28]      sscanf plugin unloaded.    
+[17:42:28] 
+[17:42:28]  ===============================
+[17:42:28] 
+[17:42:28] plugin.mysql: Unloading plugin...
+[17:42:28] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:42:31] filterscripts = ""  (string)
+[17:42:31] 
+[17:42:31] Server Plugins
+[17:42:31] --------------
+[17:42:31]  Loading plugin: pawncmd.dll
+[17:42:31] [Pawn.CMD] plugin v3.4.0 loading...
+[17:42:31] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[17:42:31]   Loaded.
+[17:42:31]  Loading plugin: sscanf.dll
+[17:42:31] 
+[17:42:31]  ===============================
+[17:42:31] 
+[17:42:31]       sscanf plugin loaded.     
+[17:42:31] 
+[17:42:31]          Version: 2.13.8
+[17:42:31] 
+[17:42:31]    (c) 2022 Alex "Y_Less" Cole  
+[17:42:31] 
+[17:42:31]  ===============================
+[17:42:31] 
+[17:42:31]   Loaded.
+[17:42:31]  Loading plugin: mysql.dll
+[17:42:31]  >> plugin.mysql: R41-4 successfully loaded.
+[17:42:31]   Loaded.
+[17:42:31]  Loaded 3 plugins.
+
+[17:42:31] 
+[17:42:31] Filterscripts
+[17:42:31] ---------------
+[17:42:31]   Loaded 0 filterscripts.
+
+[17:42:31] [MYSQL] : Berhasil tersambung kedalam database!
+[17:42:31] 
+----------------------------------
+[17:42:31]  Blank Gamemode by your name here
+[17:42:31] ----------------------------------
+
+[17:42:31] Number of vehicle models: 0
+[17:42:34] --- Server Shutting Down.
+[17:42:34] [Pawn.CMD] plugin unloaded
+[17:42:34] 
+[17:42:34]  ===============================
+[17:42:34] 
+[17:42:34]      sscanf plugin unloaded.    
+[17:42:34] 
+[17:42:34]  ===============================
+[17:42:34] 
+[17:42:34] plugin.mysql: Unloading plugin...
+[17:42:34] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:58:23] filterscripts = ""  (string)
+[17:58:23] 
+[17:58:23] Server Plugins
+[17:58:23] --------------
+[17:58:23]  Loading plugin: pawncmd.dll
+[17:58:23] [Pawn.CMD] plugin v3.4.0 loading...
+[17:58:23] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[17:58:23]   Loaded.
+[17:58:23]  Loading plugin: sscanf.dll
+[17:58:23] 
+[17:58:23]  ===============================
+[17:58:23] 
+[17:58:23]       sscanf plugin loaded.     
+[17:58:23] 
+[17:58:23]          Version: 2.13.8
+[17:58:23] 
+[17:58:23]    (c) 2022 Alex "Y_Less" Cole  
+[17:58:23] 
+[17:58:23]  ===============================
+[17:58:23] 
+[17:58:23]   Loaded.
+[17:58:23]  Loading plugin: mysql.dll
+[17:58:23]  >> plugin.mysql: R41-4 successfully loaded.
+[17:58:23]   Loaded.
+[17:58:23]  Loaded 3 plugins.
+
+[17:58:23] 
+[17:58:23] Filterscripts
+[17:58:23] ---------------
+[17:58:23]   Loaded 0 filterscripts.
+
+[17:58:23] [MYSQL] : Berhasil tersambung kedalam database!
+[17:58:23] 
+----------------------------------
+[17:58:23]  Blank Gamemode by your name here
+[17:58:23] ----------------------------------
+
+[17:58:23] Number of vehicle models: 0
+[18:00:12] [connection] incoming connection: 192.168.1.7:56178 id: 0
+[18:00:13] [join] TansaKedua has joined the server (0:192.168.1.7)
+[18:03:52] --- Server Shutting Down.
+[18:03:52] [part] TansaKedua has left the server (0:0)
+[18:03:52] [Pawn.CMD] plugin unloaded
+[18:03:52] 
+[18:03:52]  ===============================
+[18:03:52] 
+[18:03:52]      sscanf plugin unloaded.    
+[18:03:52] 
+[18:03:52]  ===============================
+[18:03:52] 
+[18:03:52] plugin.mysql: Unloading plugin...
+[18:03:52] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:03:54] filterscripts = ""  (string)
+[18:03:54] 
+[18:03:54] Server Plugins
+[18:03:54] --------------
+[18:03:54]  Loading plugin: pawncmd.dll
+[18:03:54] [Pawn.CMD] plugin v3.4.0 loading...
+[18:03:54] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[18:03:54]   Loaded.
+[18:03:54]  Loading plugin: sscanf.dll
+[18:03:54] 
+[18:03:54]  ===============================
+[18:03:54] 
+[18:03:54]       sscanf plugin loaded.     
+[18:03:54] 
+[18:03:54]          Version: 2.13.8
+[18:03:54] 
+[18:03:54]    (c) 2022 Alex "Y_Less" Cole  
+[18:03:54] 
+[18:03:54]  ===============================
+[18:03:54] 
+[18:03:54]   Loaded.
+[18:03:54]  Loading plugin: mysql.dll
+[18:03:54]  >> plugin.mysql: R41-4 successfully loaded.
+[18:03:54]   Loaded.
+[18:03:54]  Loaded 3 plugins.
+
+[18:03:54] 
+[18:03:54] Filterscripts
+[18:03:54] ---------------
+[18:03:54]   Loaded 0 filterscripts.
+
+[18:03:54] [MYSQL] : Berhasil tersambung kedalam database!
+[18:03:54] 
+----------------------------------
+[18:03:54]  Blank Gamemode by your name here
+[18:03:54] ----------------------------------
+
+[18:03:54] Number of vehicle models: 0
+[18:03:55] [connection] incoming connection: 192.168.1.7:47756 id: 0
+[18:03:55] [join] TansaKedua has joined the server (0:192.168.1.7)
+[18:04:04] [part] TansaKedua has left the server (0:1)
+[18:04:04] [connection] incoming connection: 192.168.1.7:39849 id: 0
+[18:04:05] [join] TansaKedua has joined the server (0:192.168.1.7)
+[18:04:39] [part] TansaKedua has left the server (0:0)
+[18:06:16] --- Server Shutting Down.
+[18:06:16] [Pawn.CMD] plugin unloaded
+[18:06:16] 
+[18:06:16]  ===============================
+[18:06:16] 
+[18:06:16]      sscanf plugin unloaded.    
+[18:06:16] 
+[18:06:16]  ===============================
+[18:06:16] 
+[18:06:16] plugin.mysql: Unloading plugin...
+[18:06:16] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:06:23] filterscripts = ""  (string)
+[18:06:23] 
+[18:06:23] Server Plugins
+[18:06:23] --------------
+[18:06:23]  Loading plugin: pawncmd.dll
+[18:06:23] [Pawn.CMD] plugin v3.4.0 loading...
+[18:06:23] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[18:06:23]   Loaded.
+[18:06:23]  Loading plugin: sscanf.dll
+[18:06:23] 
+[18:06:23]  ===============================
+[18:06:23] 
+[18:06:23]       sscanf plugin loaded.     
+[18:06:23] 
+[18:06:23]          Version: 2.13.8
+[18:06:23] 
+[18:06:23]    (c) 2022 Alex "Y_Less" Cole  
+[18:06:23] 
+[18:06:23]  ===============================
+[18:06:23] 
+[18:06:23]   Loaded.
+[18:06:23]  Loading plugin: mysql.dll
+[18:06:23]  >> plugin.mysql: R41-4 successfully loaded.
+[18:06:23]   Loaded.
+[18:06:23]  Loaded 3 plugins.
+
+[18:06:23] 
+[18:06:23] Filterscripts
+[18:06:23] ---------------
+[18:06:23]   Loaded 0 filterscripts.
+
+[18:06:23] [MYSQL] : Berhasil tersambung kedalam database!
+[18:06:23] 
+----------------------------------
+[18:06:23]  Blank Gamemode by your name here
+[18:06:23] ----------------------------------
+
+[18:06:23] Number of vehicle models: 0
+[18:06:53] [connection] incoming connection: 127.0.0.1:60021 id: 0
+[18:06:53] [join] Tnsa has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:08:00] filterscripts = ""  (string)
+[18:08:00] 
+[18:08:00] Server Plugins
+[18:08:00] --------------
+[18:08:00]  Loading plugin: pawncmd.dll
+[18:08:00] [Pawn.CMD] plugin v3.4.0 loading...
+[18:08:00] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[18:08:00]   Loaded.
+[18:08:00]  Loading plugin: sscanf.dll
+[18:08:00] 
+[18:08:00]  ===============================
+[18:08:00] 
+[18:08:00]       sscanf plugin loaded.     
+[18:08:00] 
+[18:08:00]          Version: 2.13.8
+[18:08:00] 
+[18:08:00]    (c) 2022 Alex "Y_Less" Cole  
+[18:08:00] 
+[18:08:00]  ===============================
+[18:08:00] 
+[18:08:00]   Loaded.
+[18:08:00]  Loading plugin: mysql.dll
+[18:08:00]  >> plugin.mysql: R41-4 successfully loaded.
+[18:08:00]   Loaded.
+[18:08:00]  Loaded 3 plugins.
+
+[18:08:00] 
+[18:08:00] Filterscripts
+[18:08:00] ---------------
+[18:08:00]   Loaded 0 filterscripts.
+
+[18:08:00] [MYSQL] : Berhasil tersambung kedalam database!
+[18:08:00] 
+----------------------------------
+[18:08:00]  Blank Gamemode by your name here
+[18:08:00] ----------------------------------
+
+[18:08:00] Number of vehicle models: 0
+[18:08:22] [connection] incoming connection: 127.0.0.1:61774 id: 0
+[18:08:22] [join] Tnsa has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:09:16] filterscripts = ""  (string)
+[18:09:16] 
+[18:09:16] Server Plugins
+[18:09:16] --------------
+[18:09:16]  Loading plugin: pawncmd.dll
+[18:09:16] [Pawn.CMD] plugin v3.4.0 loading...
+[18:09:16] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[18:09:16]   Loaded.
+[18:09:16]  Loading plugin: sscanf.dll
+[18:09:16] 
+[18:09:16]  ===============================
+[18:09:16] 
+[18:09:16]       sscanf plugin loaded.     
+[18:09:16] 
+[18:09:16]          Version: 2.13.8
+[18:09:16] 
+[18:09:16]    (c) 2022 Alex "Y_Less" Cole  
+[18:09:16] 
+[18:09:16]  ===============================
+[18:09:16] 
+[18:09:16]   Loaded.
+[18:09:16]  Loading plugin: mysql.dll
+[18:09:16]  >> plugin.mysql: R41-4 successfully loaded.
+[18:09:16]   Loaded.
+[18:09:16]  Loaded 3 plugins.
+
+[18:09:16] 
+[18:09:16] Filterscripts
+[18:09:16] ---------------
+[18:09:16]   Loaded 0 filterscripts.
+
+[18:09:16] [MYSQL] : Berhasil tersambung kedalam database!
+[18:09:16] 
+----------------------------------
+[18:09:16]  Blank Gamemode by your name here
+[18:09:16] ----------------------------------
+
+[18:09:16] Number of vehicle models: 0
+[18:10:11] [part] Tnsa has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:10:23] filterscripts = ""  (string)
+[18:10:23] 
+[18:10:23] Server Plugins
+[18:10:23] --------------
+[18:10:23]  Loading plugin: pawncmd.dll
+[18:10:23] [Pawn.CMD] plugin v3.4.0 loading...
+[18:10:23] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[18:10:23]   Loaded.
+[18:10:23]  Loading plugin: sscanf.dll
+[18:10:23] 
+[18:10:23]  ===============================
+[18:10:23] 
+[18:10:23]       sscanf plugin loaded.     
+[18:10:23] 
+[18:10:23]          Version: 2.13.8
+[18:10:23] 
+[18:10:23]    (c) 2022 Alex "Y_Less" Cole  
+[18:10:23] 
+[18:10:23]  ===============================
+[18:10:23] 
+[18:10:23]   Loaded.
+[18:10:23]  Loading plugin: mysql.dll
+[18:10:23]  >> plugin.mysql: R41-4 successfully loaded.
+[18:10:23]   Loaded.
+[18:10:23]  Loaded 3 plugins.
+
+[18:10:23] 
+[18:10:23] Filterscripts
+[18:10:23] ---------------
+[18:10:23]   Loaded 0 filterscripts.
+
+[18:10:23] [MYSQL] : Berhasil tersambung kedalam database!
+[18:10:23] 
+----------------------------------
+[18:10:23]  Blank Gamemode by your name here
+[18:10:23] ----------------------------------
+
+[18:10:23] Number of vehicle models: 0
+[18:10:45] [connection] incoming connection: 127.0.0.1:49379 id: 0
+[18:10:45] [join] Tnsa has joined the server (0:127.0.0.1)
+[18:12:19] --- Server Shutting Down.
+[18:12:19] [part] Tnsa has left the server (0:0)
+[18:12:20] [Pawn.CMD] plugin unloaded
+[18:12:20] 
+[18:12:20]  ===============================
+[18:12:20] 
+[18:12:20]      sscanf plugin unloaded.    
+[18:12:20] 
+[18:12:20]  ===============================
+[18:12:20] 
+[18:12:20] plugin.mysql: Unloading plugin...
+[18:12:20] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:12:22] filterscripts = ""  (string)
+[18:12:22] 
+[18:12:22] Server Plugins
+[18:12:22] --------------
+[18:12:22]  Loading plugin: pawncmd.dll
+[18:12:22] [Pawn.CMD] plugin v3.4.0 loading...
+[18:12:22] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[18:12:22]   Loaded.
+[18:12:22]  Loading plugin: sscanf.dll
+[18:12:22] 
+[18:12:22]  ===============================
+[18:12:22] 
+[18:12:22]       sscanf plugin loaded.     
+[18:12:22] 
+[18:12:22]          Version: 2.13.8
+[18:12:22] 
+[18:12:22]    (c) 2022 Alex "Y_Less" Cole  
+[18:12:22] 
+[18:12:22]  ===============================
+[18:12:22] 
+[18:12:22]   Loaded.
+[18:12:22]  Loading plugin: mysql.dll
+[18:12:22]  >> plugin.mysql: R41-4 successfully loaded.
+[18:12:22]   Loaded.
+[18:12:22]  Loaded 3 plugins.
+
+[18:12:22] 
+[18:12:22] Filterscripts
+[18:12:22] ---------------
+[18:12:23]   Loaded 0 filterscripts.
+
+[18:12:23] [MYSQL] : Berhasil tersambung kedalam database!
+[18:12:23] 
+----------------------------------
+[18:12:23]  Blank Gamemode by your name here
+[18:12:23] ----------------------------------
+
+[18:12:23] Number of vehicle models: 0
+[18:12:59] [connection] incoming connection: 127.0.0.1:61413 id: 0
+[18:13:00] [join] Tnsa has joined the server (0:127.0.0.1)
+[18:13:37] --- Server Shutting Down.
+[18:13:37] [part] Tnsa has left the server (0:0)
+[18:13:37] [Pawn.CMD] plugin unloaded
+[18:13:37] 
+[18:13:37]  ===============================
+[18:13:37] 
+[18:13:37]      sscanf plugin unloaded.    
+[18:13:37] 
+[18:13:37]  ===============================
+[18:13:37] 
+[18:13:37] plugin.mysql: Unloading plugin...
+[18:13:37] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:13:46] filterscripts = ""  (string)
+[18:13:46] 
+[18:13:46] Server Plugins
+[18:13:46] --------------
+[18:13:46]  Loading plugin: pawncmd.dll
+[18:13:46] [Pawn.CMD] plugin v3.4.0 loading...
+[18:13:46] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[18:13:46]   Loaded.
+[18:13:46]  Loading plugin: sscanf.dll
+[18:13:46] 
+[18:13:46]  ===============================
+[18:13:46] 
+[18:13:46]       sscanf plugin loaded.     
+[18:13:46] 
+[18:13:46]          Version: 2.13.8
+[18:13:46] 
+[18:13:46]    (c) 2022 Alex "Y_Less" Cole  
+[18:13:46] 
+[18:13:46]  ===============================
+[18:13:46] 
+[18:13:46]   Loaded.
+[18:13:46]  Loading plugin: mysql.dll
+[18:13:46]  >> plugin.mysql: R41-4 successfully loaded.
+[18:13:46]   Loaded.
+[18:13:46]  Loaded 3 plugins.
+
+[18:13:46] 
+[18:13:46] Filterscripts
+[18:13:46] ---------------
+[18:13:46]   Loaded 0 filterscripts.
+
+[18:13:46] [MYSQL] : Berhasil tersambung kedalam database!
+[18:13:46] 
+----------------------------------
+[18:13:46]  Blank Gamemode by your name here
+[18:13:46] ----------------------------------
+
+[18:13:46] Number of vehicle models: 0
+[18:14:05] [connection] incoming connection: 127.0.0.1:51845 id: 0
+[18:14:05] [join] Tnsa has joined the server (0:127.0.0.1)
+[18:15:33] [part] Tnsa has left the server (0:1)
+[18:15:37] --- Server Shutting Down.
+[18:15:37] [Pawn.CMD] plugin unloaded
+[18:15:37] 
+[18:15:37]  ===============================
+[18:15:37] 
+[18:15:37]      sscanf plugin unloaded.    
+[18:15:37] 
+[18:15:37]  ===============================
+[18:15:37] 
+[18:15:37] plugin.mysql: Unloading plugin...
+[18:15:37] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:15:39] filterscripts = ""  (string)
+[18:15:39] 
+[18:15:39] Server Plugins
+[18:15:39] --------------
+[18:15:39]  Loading plugin: pawncmd.dll
+[18:15:39] [Pawn.CMD] plugin v3.4.0 loading...
+[18:15:39] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[18:15:39]   Loaded.
+[18:15:39]  Loading plugin: sscanf.dll
+[18:15:39] 
+[18:15:39]  ===============================
+[18:15:39] 
+[18:15:39]       sscanf plugin loaded.     
+[18:15:39] 
+[18:15:39]          Version: 2.13.8
+[18:15:39] 
+[18:15:39]    (c) 2022 Alex "Y_Less" Cole  
+[18:15:39] 
+[18:15:39]  ===============================
+[18:15:39] 
+[18:15:39]   Loaded.
+[18:15:39]  Loading plugin: mysql.dll
+[18:15:39]  >> plugin.mysql: R41-4 successfully loaded.
+[18:15:39]   Loaded.
+[18:15:39]  Loaded 3 plugins.
+
+[18:15:39] 
+[18:15:39] Filterscripts
+[18:15:39] ---------------
+[18:15:39]   Loaded 0 filterscripts.
+
+[18:15:39] [MYSQL] : Berhasil tersambung kedalam database!
+[18:15:39] 
+----------------------------------
+[18:15:39]  Blank Gamemode by your name here
+[18:15:39] ----------------------------------
+
+[18:15:39] Number of vehicle models: 0
+[18:15:58] [connection] incoming connection: 127.0.0.1:62164 id: 0
+[18:15:58] [join] Tnsa has joined the server (0:127.0.0.1)
+[18:19:01] --- Server Shutting Down.
+[18:19:01] [part] Tnsa has left the server (0:0)
+[18:19:01] [Pawn.CMD] plugin unloaded
+[18:19:01] 
+[18:19:01]  ===============================
+[18:19:01] 
+[18:19:01]      sscanf plugin unloaded.    
+[18:19:01] 
+[18:19:01]  ===============================
+[18:19:01] 
+[18:19:01] plugin.mysql: Unloading plugin...
+[18:19:01] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:19:04] filterscripts = ""  (string)
+[18:19:04] 
+[18:19:04] Server Plugins
+[18:19:04] --------------
+[18:19:04]  Loading plugin: pawncmd.dll
+[18:19:04] [Pawn.CMD] plugin v3.4.0 loading...
+[18:19:04] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[18:19:04]   Loaded.
+[18:19:04]  Loading plugin: sscanf.dll
+[18:19:04] 
+[18:19:04]  ===============================
+[18:19:04] 
+[18:19:04]       sscanf plugin loaded.     
+[18:19:04] 
+[18:19:04]          Version: 2.13.8
+[18:19:04] 
+[18:19:04]    (c) 2022 Alex "Y_Less" Cole  
+[18:19:04] 
+[18:19:04]  ===============================
+[18:19:04] 
+[18:19:04]   Loaded.
+[18:19:04]  Loading plugin: mysql.dll
+[18:19:04]  >> plugin.mysql: R41-4 successfully loaded.
+[18:19:04]   Loaded.
+[18:19:04]  Loaded 3 plugins.
+
+[18:19:04] 
+[18:19:04] Filterscripts
+[18:19:04] ---------------
+[18:19:04]   Loaded 0 filterscripts.
+
+[18:19:04] [MYSQL] : Berhasil tersambung kedalam database!
+[18:19:04] 
+----------------------------------
+[18:19:04]  Blank Gamemode by your name here
+[18:19:04] ----------------------------------
+
+[18:19:04] Number of vehicle models: 0
+[18:19:32] [connection] incoming connection: 127.0.0.1:62119 id: 0
+[18:19:32] [join] Tnsa has joined the server (0:127.0.0.1)
+[18:21:15] [part] Tnsa has left the server (0:1)
+[18:21:18] --- Server Shutting Down.
+[18:21:18] [Pawn.CMD] plugin unloaded
+[18:21:18] 
+[18:21:18]  ===============================
+[18:21:18] 
+[18:21:18]      sscanf plugin unloaded.    
+[18:21:18] 
+[18:21:18]  ===============================
+[18:21:18] 
+[18:21:18] plugin.mysql: Unloading plugin...
+[18:21:18] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:21:20] filterscripts = ""  (string)
+[18:21:20] 
+[18:21:20] Server Plugins
+[18:21:20] --------------
+[18:21:20]  Loading plugin: pawncmd.dll
+[18:21:20] [Pawn.CMD] plugin v3.4.0 loading...
+[18:21:20] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[18:21:20]   Loaded.
+[18:21:20]  Loading plugin: sscanf.dll
+[18:21:20] 
+[18:21:20]  ===============================
+[18:21:20] 
+[18:21:20]       sscanf plugin loaded.     
+[18:21:20] 
+[18:21:20]          Version: 2.13.8
+[18:21:20] 
+[18:21:20]    (c) 2022 Alex "Y_Less" Cole  
+[18:21:20] 
+[18:21:20]  ===============================
+[18:21:20] 
+[18:21:20]   Loaded.
+[18:21:20]  Loading plugin: mysql.dll
+[18:21:20]  >> plugin.mysql: R41-4 successfully loaded.
+[18:21:20]   Loaded.
+[18:21:20]  Loaded 3 plugins.
+
+[18:21:20] 
+[18:21:20] Filterscripts
+[18:21:20] ---------------
+[18:21:20]   Loaded 0 filterscripts.
+
+[18:21:20] [MYSQL] : Berhasil tersambung kedalam database!
+[18:21:20] 
+----------------------------------
+[18:21:20]  Blank Gamemode by your name here
+[18:21:20] ----------------------------------
+
+[18:21:20] Number of vehicle models: 0
+[18:21:39] [connection] incoming connection: 127.0.0.1:63312 id: 0
+[18:21:40] [join] Tnsa has joined the server (0:127.0.0.1)
+[18:21:40] [DEBUG SIGN UP] : T memasuki dialog sign up
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:39:37] filterscripts = ""  (string)
+[19:39:37] 
+[19:39:37] Server Plugins
+[19:39:37] --------------
+[19:39:37]  Loading plugin: pawncmd.dll
+[19:39:37] [Pawn.CMD] plugin v3.4.0 loading...
+[19:39:37] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[19:39:37]   Loaded.
+[19:39:37]  Loading plugin: sscanf.dll
+[19:39:37] 
+[19:39:37]  ===============================
+[19:39:37] 
+[19:39:37]       sscanf plugin loaded.     
+[19:39:37] 
+[19:39:37]          Version: 2.13.8
+[19:39:37] 
+[19:39:37]    (c) 2022 Alex "Y_Less" Cole  
+[19:39:37] 
+[19:39:37]  ===============================
+[19:39:37] 
+[19:39:37]   Loaded.
+[19:39:37]  Loading plugin: mysql.dll
+[19:39:37]  >> plugin.mysql: R41-4 successfully loaded.
+[19:39:37]   Loaded.
+[19:39:37]  Loaded 3 plugins.
+
+[19:39:37] 
+[19:39:37] Filterscripts
+[19:39:37] ---------------
+[19:39:37]   Loaded 0 filterscripts.
+
+[19:39:37] [MYSQL] : Berhasil tersambung kedalam database!
+[19:39:37] 
+----------------------------------
+[19:39:37]  Blank Gamemode by your name here
+[19:39:37] ----------------------------------
+
+[19:39:37] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:27:28] filterscripts = ""  (string)
+[20:27:28] 
+[20:27:28] Server Plugins
+[20:27:28] --------------
+[20:27:28]  Loading plugin: pawncmd.dll
+[20:27:28] [Pawn.CMD] plugin v3.4.0 loading...
+[20:27:28] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[20:27:28]   Loaded.
+[20:27:28]  Loading plugin: sscanf.dll
+[20:27:28] 
+[20:27:28]  ===============================
+[20:27:28] 
+[20:27:28]       sscanf plugin loaded.     
+[20:27:28] 
+[20:27:28]          Version: 2.13.8
+[20:27:28] 
+[20:27:28]    (c) 2022 Alex "Y_Less" Cole  
+[20:27:28] 
+[20:27:28]  ===============================
+[20:27:28] 
+[20:27:28]   Loaded.
+[20:27:28]  Loading plugin: mysql.dll
+[20:27:29]  >> plugin.mysql: R41-4 successfully loaded.
+[20:27:29]   Loaded.
+[20:27:29]  Loaded 3 plugins.
+
+[20:27:29] 
+[20:27:29] Filterscripts
+[20:27:29] ---------------
+[20:27:29]   Loaded 0 filterscripts.
+
+[20:27:29] [MYSQL] : Berhasil tersambung kedalam database!
+[20:27:29] 
+----------------------------------
+[20:27:29]  Blank Gamemode by your name here
+[20:27:29] ----------------------------------
+
+[20:27:29] Number of vehicle models: 0
+[20:28:03] [connection] incoming connection: 192.168.1.7:59471 id: 0
+[20:28:04] [join] TansaKedua has joined the server (0:192.168.1.7)
+[20:28:04] [DEBUG SIGN UP] : T memasuki dialog sign up
+[20:31:22] [connection] incoming connection: 127.0.0.1:50718 id: 1
+[20:31:22] [join] Tnsa has joined the server (1:127.0.0.1)
+[20:31:22] [DEBUG SIGN UP] : Tansaaja memasuki dialog sign up
+[20:32:48] [part] Tnsa has left the server (1:1)
+[20:33:01] --- Server Shutting Down.
+[20:33:01] [part] TansaKedua has left the server (0:0)
+[20:33:01] [Pawn.CMD] plugin unloaded
+[20:33:01] 
+[20:33:01]  ===============================
+[20:33:01] 
+[20:33:01]      sscanf plugin unloaded.    
+[20:33:01] 
+[20:33:01]  ===============================
+[20:33:01] 
+[20:33:01] plugin.mysql: Unloading plugin...
+[20:33:01] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:46:33] filterscripts = ""  (string)
+[20:46:33] 
+[20:46:33] Server Plugins
+[20:46:33] --------------
+[20:46:33]  Loading plugin: pawncmd.dll
+[20:46:33] [Pawn.CMD] plugin v3.4.0 loading...
+[20:46:33] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[20:46:33]   Loaded.
+[20:46:33]  Loading plugin: sscanf.dll
+[20:46:33] 
+[20:46:33]  ===============================
+[20:46:33] 
+[20:46:33]       sscanf plugin loaded.     
+[20:46:33] 
+[20:46:33]          Version: 2.13.8
+[20:46:33] 
+[20:46:33]    (c) 2022 Alex "Y_Less" Cole  
+[20:46:33] 
+[20:46:33]  ===============================
+[20:46:33] 
+[20:46:33]   Loaded.
+[20:46:33]  Loading plugin: mysql.dll
+[20:46:33]  >> plugin.mysql: R41-4 successfully loaded.
+[20:46:33]   Loaded.
+[20:46:33]  Loaded 3 plugins.
+
+[20:46:33] 
+[20:46:33] Filterscripts
+[20:46:33] ---------------
+[20:46:33]   Loaded 0 filterscripts.
+
+[20:46:33] [MYSQL] : Berhasil tersambung kedalam database!
+[20:46:33] 
+----------------------------------
+[20:46:33]  Blank Gamemode by your name here
+[20:46:33] ----------------------------------
+
+[20:46:33] Number of vehicle models: 0
+[20:47:00] [connection] incoming connection: 192.168.1.7:41918 id: 0
+[20:47:01] [join] TansaKedua has joined the server (0:192.168.1.7)
+[20:47:06] [DEBUG_LOGIN] : BERHASIL MENERIMA DATA KE DATABASE
+[20:47:49] [DEBUG_LOGIN] : BERHASIL MENERIMA DATA KE DATABASE
+[20:49:43] [part] TansaKedua has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:51:58] filterscripts = ""  (string)
+[20:51:58] 
+[20:51:58] Server Plugins
+[20:51:58] --------------
+[20:51:58]  Loading plugin: pawncmd.dll
+[20:51:58] [Pawn.CMD] plugin v3.4.0 loading...
+[20:51:58] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[20:51:58]   Loaded.
+[20:51:58]  Loading plugin: sscanf.dll
+[20:51:58] 
+[20:51:58]  ===============================
+[20:51:58] 
+[20:51:58]       sscanf plugin loaded.     
+[20:51:58] 
+[20:51:58]          Version: 2.13.8
+[20:51:58] 
+[20:51:58]    (c) 2022 Alex "Y_Less" Cole  
+[20:51:58] 
+[20:51:58]  ===============================
+[20:51:58] 
+[20:51:58]   Loaded.
+[20:51:58]  Loading plugin: mysql.dll
+[20:51:58]  >> plugin.mysql: R41-4 successfully loaded.
+[20:51:58]   Loaded.
+[20:51:58]  Loaded 3 plugins.
+
+[20:51:58] 
+[20:51:58] Filterscripts
+[20:51:58] ---------------
+[20:51:58]   Loaded 0 filterscripts.
+
+[20:51:58] [MYSQL] : Berhasil tersambung kedalam database!
+[20:51:58] 
+----------------------------------
+[20:51:58]  Blank Gamemode by your name here
+[20:51:58] ----------------------------------
+
+[20:51:58] Number of vehicle models: 0
+[20:52:12] [connection] incoming connection: 192.168.1.7:33972 id: 0
+[20:52:13] [join] TansaKedua has joined the server (0:192.168.1.7)
+[20:52:21] [DEBUG_LOGIN] : BERHASIL MENERIMA DATA KE DATABASE
+[20:55:56] [connection] incoming connection: 127.0.0.1:65532 id: 1
+[20:55:57] [join] Tnsa has joined the server (1:127.0.0.1)
+[20:56:05] [DEBUG_LOGIN] : BERHASIL MENERIMA DATA KE DATABASE
+[20:56:36] [part] Tnsa has left the server (1:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:02:53] filterscripts = ""  (string)
+[21:02:53] 
+[21:02:53] Server Plugins
+[21:02:53] --------------
+[21:02:53]  Loading plugin: pawncmd.dll
+[21:02:53] [Pawn.CMD] plugin v3.4.0 loading...
+[21:02:53] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[21:02:53]   Loaded.
+[21:02:53]  Loading plugin: sscanf.dll
+[21:02:53] 
+[21:02:53]  ===============================
+[21:02:53] 
+[21:02:53]       sscanf plugin loaded.     
+[21:02:53] 
+[21:02:53]          Version: 2.13.8
+[21:02:53] 
+[21:02:53]    (c) 2022 Alex "Y_Less" Cole  
+[21:02:53] 
+[21:02:53]  ===============================
+[21:02:53] 
+[21:02:53]   Loaded.
+[21:02:53]  Loading plugin: mysql.dll
+[21:02:53]  >> plugin.mysql: R41-4 successfully loaded.
+[21:02:53]   Loaded.
+[21:02:53]  Loaded 3 plugins.
+
+[21:02:53] 
+[21:02:53] Filterscripts
+[21:02:53] ---------------
+[21:02:53]   Loaded 0 filterscripts.
+
+[21:02:53] [MYSQL] : Berhasil tersambung kedalam database!
+[21:02:53] 
+----------------------------------
+[21:02:53]  Blank Gamemode by your name here
+[21:02:53] ----------------------------------
+
+[21:02:53] Number of vehicle models: 0
+[21:03:17] [connection] incoming connection: 127.0.0.1:51049 id: 0
+[21:03:17] [join] Tnsa has joined the server (0:127.0.0.1)
+[21:03:22] [DEBUG_LOGIN] : BERHASIL MENERIMA DATA KE DATABASE
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:25:34] filterscripts = ""  (string)
+[21:25:34] 
+[21:25:34] Server Plugins
+[21:25:34] --------------
+[21:25:34]  Loading plugin: pawncmd.dll
+[21:25:34] [Pawn.CMD] plugin v3.4.0 loading...
+[21:25:34] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[21:25:34]   Loaded.
+[21:25:34]  Loading plugin: sscanf.dll
+[21:25:34] 
+[21:25:34]  ===============================
+[21:25:34] 
+[21:25:34]       sscanf plugin loaded.     
+[21:25:34] 
+[21:25:34]          Version: 2.13.8
+[21:25:34] 
+[21:25:34]    (c) 2022 Alex "Y_Less" Cole  
+[21:25:34] 
+[21:25:34]  ===============================
+[21:25:34] 
+[21:25:34]   Loaded.
+[21:25:34]  Loading plugin: mysql.dll
+[21:25:34]  >> plugin.mysql: R41-4 successfully loaded.
+[21:25:34]   Loaded.
+[21:25:34]  Loaded 3 plugins.
+
+[21:25:34] 
+[21:25:34] Filterscripts
+[21:25:34] ---------------
+[21:25:34]   Loaded 0 filterscripts.
+
+[21:25:34] [MYSQL] : Berhasil tersambung kedalam database!
+[21:25:34] 
+----------------------------------
+[21:25:34]  Blank Gamemode by your name here
+[21:25:34] ----------------------------------
+
+[21:25:34] Number of vehicle models: 0
+[21:26:12] [connection] incoming connection: 192.168.1.7:57765 id: 0
+[21:26:12] [join] TansaKedua has joined the server (0:192.168.1.7)
+[21:26:17] [DEBUG_LOGIN] : BERHASIL MENERIMA DATA KE DATABASE
+[21:26:29] [part] TansaKedua has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:30:05] filterscripts = ""  (string)
+[21:30:05] 
+[21:30:05] Server Plugins
+[21:30:05] --------------
+[21:30:05]  Loading plugin: pawncmd.dll
+[21:30:05] [Pawn.CMD] plugin v3.4.0 loading...
+[21:30:05] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[21:30:05]   Loaded.
+[21:30:05]  Loading plugin: sscanf.dll
+[21:30:05] 
+[21:30:05]  ===============================
+[21:30:05] 
+[21:30:05]       sscanf plugin loaded.     
+[21:30:05] 
+[21:30:05]          Version: 2.13.8
+[21:30:05] 
+[21:30:05]    (c) 2022 Alex "Y_Less" Cole  
+[21:30:05] 
+[21:30:05]  ===============================
+[21:30:05] 
+[21:30:05]   Loaded.
+[21:30:05]  Loading plugin: mysql.dll
+[21:30:05]  >> plugin.mysql: R41-4 successfully loaded.
+[21:30:05]   Loaded.
+[21:30:05]  Loaded 3 plugins.
+
+[21:30:05] 
+[21:30:05] Filterscripts
+[21:30:05] ---------------
+[21:30:05]   Loaded 0 filterscripts.
+
+[21:30:05] [MYSQL] : Berhasil tersambung kedalam database!
+[21:30:05] 
+----------------------------------
+[21:30:05]  Blank Gamemode by your name here
+[21:30:05] ----------------------------------
+
+[21:30:05] Number of vehicle models: 0
+[21:30:28] [connection] incoming connection: 127.0.0.1:50511 id: 0
+[21:30:28] [join] Tnsa has joined the server (0:127.0.0.1)
+[21:30:32] [DEBUG_LOGIN] : BERHASIL MENERIMA DATA KE DATABASE
+[21:30:37] [part] Tnsa has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:32:29] filterscripts = ""  (string)
+[21:32:29] 
+[21:32:29] Server Plugins
+[21:32:29] --------------
+[21:32:29]  Loading plugin: pawncmd.dll
+[21:32:29] [Pawn.CMD] plugin v3.4.0 loading...
+[21:32:29] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[21:32:29]   Loaded.
+[21:32:29]  Loading plugin: sscanf.dll
+[21:32:29] 
+[21:32:29]  ===============================
+[21:32:29] 
+[21:32:29]       sscanf plugin loaded.     
+[21:32:29] 
+[21:32:29]          Version: 2.13.8
+[21:32:29] 
+[21:32:29]    (c) 2022 Alex "Y_Less" Cole  
+[21:32:29] 
+[21:32:29]  ===============================
+[21:32:29] 
+[21:32:29]   Loaded.
+[21:32:29]  Loading plugin: mysql.dll
+[21:32:29]  >> plugin.mysql: R41-4 successfully loaded.
+[21:32:29]   Loaded.
+[21:32:29]  Loaded 3 plugins.
+
+[21:32:29] 
+[21:32:29] Filterscripts
+[21:32:29] ---------------
+[21:32:29]   Loaded 0 filterscripts.
+
+[21:32:29] [MYSQL] : Berhasil tersambung kedalam database!
+[21:32:29] 
+----------------------------------
+[21:32:29]  Blank Gamemode by your name here
+[21:32:29] ----------------------------------
+
+[21:32:29] Number of vehicle models: 0
+[21:32:54] [connection] incoming connection: 127.0.0.1:59075 id: 0
+[21:32:54] [join] Tnsa has joined the server (0:127.0.0.1)
+[21:34:04] [DEBUG_LOGIN] : BERHASIL MENERIMA DATA KE DATABASE
+[21:34:12] [part] Tnsa has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:40:16] filterscripts = ""  (string)
+[21:40:16] 
+[21:40:16] Server Plugins
+[21:40:16] --------------
+[21:40:16]  Loading plugin: pawncmd.dll
+[21:40:16] [Pawn.CMD] plugin v3.4.0 loading...
+[21:40:16] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[21:40:16]   Loaded.
+[21:40:16]  Loading plugin: sscanf.dll
+[21:40:16] 
+[21:40:16]  ===============================
+[21:40:16] 
+[21:40:16]       sscanf plugin loaded.     
+[21:40:16] 
+[21:40:16]          Version: 2.13.8
+[21:40:16] 
+[21:40:16]    (c) 2022 Alex "Y_Less" Cole  
+[21:40:16] 
+[21:40:16]  ===============================
+[21:40:16] 
+[21:40:16]   Loaded.
+[21:40:16]  Loading plugin: mysql.dll
+[21:40:16]  >> plugin.mysql: R41-4 successfully loaded.
+[21:40:16]   Loaded.
+[21:40:16]  Loaded 3 plugins.
+
+[21:40:16] 
+[21:40:16] Filterscripts
+[21:40:16] ---------------
+[21:40:16]   Loaded 0 filterscripts.
+
+[21:40:16] [MYSQL] : Berhasil tersambung kedalam database!
+[21:40:16] 
+----------------------------------
+[21:40:16]  Blank Gamemode by your name here
+[21:40:16] ----------------------------------
+
+[21:40:16] Number of vehicle models: 0
+[21:41:16] [connection] incoming connection: 192.168.1.7:38143 id: 0
+[21:41:17] [join] TansaKedua has joined the server (0:192.168.1.7)
+[21:41:22] [DEBUG_SIGN_UP] : BERHASIL MENGIRIM DATA KE DATABASE
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:45:28] filterscripts = ""  (string)
+[21:45:28] 
+[21:45:28] Server Plugins
+[21:45:28] --------------
+[21:45:28]  Loading plugin: pawncmd.dll
+[21:45:28] [Pawn.CMD] plugin v3.4.0 loading...
+[21:45:28] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[21:45:28]   Loaded.
+[21:45:28]  Loading plugin: sscanf.dll
+[21:45:28] 
+[21:45:28]  ===============================
+[21:45:28] 
+[21:45:28]       sscanf plugin loaded.     
+[21:45:28] 
+[21:45:28]          Version: 2.13.8
+[21:45:28] 
+[21:45:28]    (c) 2022 Alex "Y_Less" Cole  
+[21:45:28] 
+[21:45:28]  ===============================
+[21:45:28] 
+[21:45:28]   Loaded.
+[21:45:28]  Loading plugin: mysql.dll
+[21:45:28]  >> plugin.mysql: R41-4 successfully loaded.
+[21:45:28]   Loaded.
+[21:45:28]  Loaded 3 plugins.
+
+[21:45:28] 
+[21:45:28] Filterscripts
+[21:45:28] ---------------
+[21:45:28]   Loaded 0 filterscripts.
+
+[21:45:28] [MYSQL] : Berhasil tersambung kedalam database!
+[21:45:28] 
+----------------------------------
+[21:45:28]  Blank Gamemode by your name here
+[21:45:28] ----------------------------------
+
+[21:45:28] Number of vehicle models: 0
+[21:45:34] [connection] incoming connection: 192.168.1.7:42222 id: 0
+[21:45:35] [join] TansaKedua has joined the server (0:192.168.1.7)
+[21:45:48] [DEBUG_LOGIN] : BERHASIL MENERIMA DATA KE DATABASE
+[21:46:04] [part] TansaKedua has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:48:58] filterscripts = ""  (string)
+[21:48:58] 
+[21:48:58] Server Plugins
+[21:48:58] --------------
+[21:48:58]  Loading plugin: pawncmd.dll
+[21:48:58] [Pawn.CMD] plugin v3.4.0 loading...
+[21:48:58] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[21:48:58]   Loaded.
+[21:48:58]  Loading plugin: sscanf.dll
+[21:48:58] 
+[21:48:58]  ===============================
+[21:48:58] 
+[21:48:58]       sscanf plugin loaded.     
+[21:48:58] 
+[21:48:58]          Version: 2.13.8
+[21:48:58] 
+[21:48:58]    (c) 2022 Alex "Y_Less" Cole  
+[21:48:58] 
+[21:48:58]  ===============================
+[21:48:58] 
+[21:48:58]   Loaded.
+[21:48:58]  Loading plugin: mysql.dll
+[21:48:58]  >> plugin.mysql: R41-4 successfully loaded.
+[21:48:58]   Loaded.
+[21:48:58]  Loaded 3 plugins.
+
+[21:48:58] 
+[21:48:58] Filterscripts
+[21:48:58] ---------------
+[21:48:58]   Loaded 0 filterscripts.
+
+[21:48:58] [MYSQL] : Berhasil tersambung kedalam database!
+[21:48:58] 
+----------------------------------
+[21:48:58]  Blank Gamemode by your name here
+[21:48:58] ----------------------------------
+
+[21:48:58] Number of vehicle models: 0
+[21:49:13] [connection] incoming connection: 192.168.1.7:41523 id: 0
+[21:49:13] [join] TansaKedua has joined the server (0:192.168.1.7)
+[21:49:18] [DEBUG_LOGIN] : BERHASIL MENERIMA DATA KE DATABASE
+[21:49:24] [part] TansaKedua has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:54:59] filterscripts = ""  (string)
+[21:54:59] 
+[21:54:59] Server Plugins
+[21:54:59] --------------
+[21:54:59]  Loading plugin: pawncmd.dll
+[21:54:59] [Pawn.CMD] plugin v3.4.0 loading...
+[21:54:59] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[21:54:59]   Loaded.
+[21:54:59]  Loading plugin: sscanf.dll
+[21:54:59] 
+[21:54:59]  ===============================
+[21:54:59] 
+[21:54:59]       sscanf plugin loaded.     
+[21:54:59] 
+[21:54:59]          Version: 2.13.8
+[21:54:59] 
+[21:54:59]    (c) 2022 Alex "Y_Less" Cole  
+[21:54:59] 
+[21:54:59]  ===============================
+[21:54:59] 
+[21:54:59]   Loaded.
+[21:54:59]  Loading plugin: mysql.dll
+[21:54:59]  >> plugin.mysql: R41-4 successfully loaded.
+[21:54:59]   Loaded.
+[21:54:59]  Loaded 3 plugins.
+
+[21:54:59] 
+[21:54:59] Filterscripts
+[21:54:59] ---------------
+[21:54:59]   Loaded 0 filterscripts.
+
+[21:54:59] [MYSQL] : Berhasil tersambung kedalam database!
+[21:54:59] 
+----------------------------------
+[21:54:59]  Blank Gamemode by your name here
+[21:54:59] ----------------------------------
+
+[21:54:59] Number of vehicle models: 0
+[21:55:18] [connection] incoming connection: 192.168.1.7:55673 id: 0
+[21:55:18] [join] TansaKedua has joined the server (0:192.168.1.7)
+[21:55:22] [DEBUG_LOGIN] : BERHASIL MENERIMA DATA KE DATABASE
+[21:55:31] [part] TansaKedua has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:51:41] filterscripts = ""  (string)
+[15:51:41] 
+[15:51:41] Server Plugins
+[15:51:41] --------------
+[15:51:41]  Loading plugin: pawncmd.dll
+[15:51:41] [Pawn.CMD] plugin v3.4.0 loading...
+[15:51:41] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[15:51:41]   Loaded.
+[15:51:41]  Loading plugin: sscanf.dll
+[15:51:41] 
+[15:51:41]  ===============================
+[15:51:41] 
+[15:51:41]       sscanf plugin loaded.     
+[15:51:41] 
+[15:51:41]          Version: 2.13.8
+[15:51:41] 
+[15:51:41]    (c) 2022 Alex "Y_Less" Cole  
+[15:51:41] 
+[15:51:41]  ===============================
+[15:51:41] 
+[15:51:41]   Loaded.
+[15:51:41]  Loading plugin: mysql.dll
+[15:51:42]  >> plugin.mysql: R41-4 successfully loaded.
+[15:51:42]   Loaded.
+[15:51:42]  Loaded 3 plugins.
+
+[15:51:42] 
+[15:51:42] Filterscripts
+[15:51:42] ---------------
+[15:51:42]   Loaded 0 filterscripts.
+
+[15:51:42] [MYSQL] : Berhasil tersambung kedalam database!
+[15:51:42] 
+----------------------------------
+[15:51:42]  Blank Gamemode by your name here
+[15:51:42] ----------------------------------
+
+[15:51:42] Number of vehicle models: 0
+[15:51:48] --- Server Shutting Down.
+[15:51:48] [Pawn.CMD] plugin unloaded
+[15:51:48] 
+[15:51:48]  ===============================
+[15:51:48] 
+[15:51:48]      sscanf plugin unloaded.    
+[15:51:48] 
+[15:51:48]  ===============================
+[15:51:48] 
+[15:51:48] plugin.mysql: Unloading plugin...
+[15:51:48] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:02:23] filterscripts = ""  (string)
+[16:02:23] 
+[16:02:23] Server Plugins
+[16:02:23] --------------
+[16:02:23]  Loading plugin: pawncmd.dll
+[16:02:23] [Pawn.CMD] plugin v3.4.0 loading...
+[16:02:23] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[16:02:23]   Loaded.
+[16:02:23]  Loading plugin: sscanf.dll
+[16:02:23] 
+[16:02:23]  ===============================
+[16:02:23] 
+[16:02:23]       sscanf plugin loaded.     
+[16:02:23] 
+[16:02:23]          Version: 2.13.8
+[16:02:23] 
+[16:02:23]    (c) 2022 Alex "Y_Less" Cole  
+[16:02:23] 
+[16:02:23]  ===============================
+[16:02:23] 
+[16:02:23]   Loaded.
+[16:02:23]  Loading plugin: mysql.dll
+[16:02:23]  >> plugin.mysql: R41-4 successfully loaded.
+[16:02:23]   Loaded.
+[16:02:23]  Loaded 3 plugins.
+
+[16:02:23] 
+[16:02:23] Filterscripts
+[16:02:23] ---------------
+[16:02:23]   Loaded 0 filterscripts.
+
+[16:02:23] [MYSQL] : Berhasil tersambung kedalam database!
+[16:02:23] 
+----------------------------------
+[16:02:23]  Blank Gamemode by your name here
+[16:02:23] ----------------------------------
+
+[16:02:23] Number of vehicle models: 0
+[16:04:32] [connection] incoming connection: 127.0.0.1:55493 id: 0
+[16:04:32] [join] Mateo_Gonzalez has joined the server (0:127.0.0.1)
+[16:04:37] [DEBUG_SIGN_UP] : BERHASIL MENGIRIM DATA KE DATABASE
+[16:05:14] [part] Mateo_Gonzalez has left the server (0:1)
+[16:05:55] [connection] incoming connection: 127.0.0.1:50858 id: 0
+[16:05:55] [join] Mateo_Gonzalez has joined the server (0:127.0.0.1)
+[16:05:59] [DEBUG_LOGIN] : BERHASIL MENERIMA DATA KE DATABASE
+[16:09:51] [part] Mateo_Gonzalez has left the server (0:1)
+[16:10:13] [connection] incoming connection: 127.0.0.1:61911 id: 0
+[16:10:13] [join] Mateo_Gonzalez has joined the server (0:127.0.0.1)
+[16:10:17] [DEBUG_LOGIN] : BERHASIL MENERIMA DATA KE DATABASE
+[16:12:08] [part] Mateo_Gonzalez has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:36:32] filterscripts = ""  (string)
+[23:36:32] 
+[23:36:32] Server Plugins
+[23:36:32] --------------
+[23:36:32]  Loading plugin: pawncmd.dll
+[23:36:32] [Pawn.CMD] plugin v3.4.0 loading...
+[23:36:32] [Pawn.CMD] 
+
+    | Pawn.CMD 3.4.0 | 2016 - 2023
+    |--------------------------------
+    | Author and maintainer: katursis
+
+
+    | Compiled: Feb 12 2023 at 18:12:31
+    |--------------------------------------------------------------
+    | Repository: https://github.com/katursis/Pawn.CMD
+
+[23:36:32]   Loaded.
+[23:36:32]  Loading plugin: sscanf.dll
+[23:36:32] 
+[23:36:32]  ===============================
+[23:36:32] 
+[23:36:32]       sscanf plugin loaded.     
+[23:36:32] 
+[23:36:32]          Version: 2.13.8
+[23:36:32] 
+[23:36:32]    (c) 2022 Alex "Y_Less" Cole  
+[23:36:32] 
+[23:36:32]  ===============================
+[23:36:32] 
+[23:36:32]   Loaded.
+[23:36:32]  Loading plugin: mysql.dll
+[23:36:32]  >> plugin.mysql: R41-4 successfully loaded.
+[23:36:32]   Loaded.
+[23:36:32]  Loaded 3 plugins.
+
+[23:36:32] 
+[23:36:32] Filterscripts
+[23:36:32] ---------------
+[23:36:32]   Loaded 0 filterscripts.
+
+[23:36:32] [MYSQL] : Berhasil tersambung kedalam database!
+[23:36:32] 
+----------------------------------
+[23:36:32]  Blank Gamemode by your name here
+[23:36:32] ----------------------------------
+
+[23:36:32] Number of vehicle models: 0
+[23:38:21] [connection] incoming connection: 192.168.1.6:56684 id: 0
+[23:38:21] [join] TansaKedua has joined the server (0:192.168.1.6)
+[23:38:38] [DEBUG_SIGN_UP] : BERHASIL MENGIRIM DATA KE DATABASE
+[23:39:41] [connection] incoming connection: 127.0.0.1:61927 id: 1
+[23:39:56] [connection] incoming connection: 127.0.0.1:62762 id: 1
+[23:39:56] [join] Mateo_Gonzalez has joined the server (1:127.0.0.1)
+[23:42:19] [DEBUG_LOGIN] : BERHASIL MENERIMA DATA KE DATABASE
+[23:43:28] [part] Mateo_Gonzalez has left the server (1:1)
+[23:43:35] [part] TansaKedua has left the server (0:0)
