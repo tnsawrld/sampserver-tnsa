@@ -137,7 +137,7 @@ public OnPlayerLogin(playerid)
 	cache_get_row_count(rows);
 	if(rows == 0)
 	{
-		ShowPlayerDialog(playerid, DIALOG_LOGIN, DIALOG_STYLE_PASSWORD, "Login", "Password salah, coba lagi!", "Login", "Close");
+		ShowPlayerDialog(playerid, DIALOG_LOGIN, DIALOG_STYLE_PASSWORD, "Login", "a salah, coba lagi!", "Login", "Close");
 	}
 	else
 	{
